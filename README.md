@@ -1,4 +1,4 @@
-# Carbon Project
+# Carbon Credits Trading Project
 
 ## Summary
 
